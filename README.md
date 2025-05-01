@@ -1,2 +1,2 @@
 # CProjects
-These are my C projects
+These are my C and C++ projects
